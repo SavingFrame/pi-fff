@@ -1,6 +1,6 @@
 # pi-fff
 
-https://github.com/user-attachments/assets/1a9fc348-19bc-489b-9de9-bb329728d234
+[![DEMO](https://raw.githubusercontent.com/ShpetimA/pi-fff/main/demo/pi-fff-preview.gif)](https://github.com/user-attachments/assets/1a9fc348-19bc-489b-9de9-bb329728d234)
 
 `pi-fff` improves `@...` file path/search experience inside pi agent by using [`@ff-labs/fff-node`](https://www.npmjs.com/package/@ff-labs/fff-node) package for typo-resistant and fast file searching.
 
